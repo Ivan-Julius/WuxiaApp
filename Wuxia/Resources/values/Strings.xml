@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">Wuxia</string>
+    <string name="openDrawer">Open</string>
+    <string name="closeDrawer">Close</string>
+    <string name="ReadmeWelcome">Hello and Welcome to Wuxia Foldering</string>
+    <string name="ReadmeExplanation">Kindly Drop your file Or folder inside this Folder : </string>
+    <string name="ReadmeExplanation2"> any File will be listed as named on File list in side menu </string>
+    <string name="ReadmeExplanation2"> any Folder will be listed as named an transform into drop down and any file contain will be listed under corresponding foler in side menu </string>
+</resources>
